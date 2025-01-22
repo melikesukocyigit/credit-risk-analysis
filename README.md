@@ -1,0 +1,2 @@
+# kredi-riski-siniflandirilmasi
+ Bu proje, bireyleri çeşitli özelliklere dayalı olarak "iyi" veya "kötü" kredi riski şeklinde sınıflandırmayı amaçlamaktadır. Lojistik Regresyon ve KNN modelleriyle kredi riski tahmin edilip performansları karşılaştırılmıştır. Proje, veri analizi, eksik veri yönetimi, özellik mühendisliği ve model değerlendirme adımlarını içermekte ve Python programlama diliyle gerçekleştirilmiştir.
